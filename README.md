@@ -11,10 +11,10 @@ segments within the policyholder population.
 ## Repository Structure
 ```
 Auto-Insurance-Claim-Prediction/
-├── EE559Project.ipynb       # Main notebook
+├── Main.ipynb       # Main notebook
 ├── customer-data.csv        # Dataset
 ├── README.md                
-└── EE559_Project_Report.pdf # Final report
+└── Project_Report.pdf # Final report
 ``` 
 
 ## Pipeline
